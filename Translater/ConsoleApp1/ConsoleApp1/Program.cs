@@ -36,10 +36,12 @@ namespace ConsoleApp1
                     Console.Write("Spanish translations of your input is >>");
                     Console.WriteLine(translation);
                     Console.Read();
+                  
                 }
             }
             catch (WebException e)
             {
+                //test cumment 
                 //test cumment 
                // ProcessWebException(e, "Failed to translate");
             }
