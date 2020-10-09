@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Vivek\\Desktop\\Translater\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectUniqueName": "E:\\TestGit-Rep\\Translater\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
       "projectName": "ConsoleApp1",
-      "projectPath": "E:\\Vivek\\Desktop\\Translater\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectPath": "E:\\TestGit-Rep\\Translater\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
       "packagesPath": "C:\\Users\\Vivek Sharma\\.nuget\\packages\\",
-      "outputPath": "E:\\Vivek\\Desktop\\Translater\\ConsoleApp1\\ConsoleApp1\\obj\\",
+      "outputPath": "E:\\TestGit-Rep\\Translater\\ConsoleApp1\\ConsoleApp1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Vivek Sharma\\AppData\\Roaming\\NuGet\\NuGet.Config",
