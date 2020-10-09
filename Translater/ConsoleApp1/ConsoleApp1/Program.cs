@@ -41,8 +41,7 @@ namespace ConsoleApp1
             }
             catch (WebException e)
             {
-                //test cumment 
-                //test cumment 
+              
                // ProcessWebException(e, "Failed to translate");
             }
             finally
