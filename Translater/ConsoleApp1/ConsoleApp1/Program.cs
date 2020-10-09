@@ -52,5 +52,10 @@ namespace ConsoleApp1
                 }
             }
         }
+
+        public static void  GetData()
+        {
+            Console.WriteLine("hello"); 
+        }
     }
 }
