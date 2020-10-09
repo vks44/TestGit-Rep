@@ -57,14 +57,6 @@ namespace ConsoleApp1
         {
             Console.WriteLine("hello"); 
         }
-        public static void GetTestData()
-        {
-            Console.WriteLine("hello");
-        }
-
-        public static void GetTestData1()
-        {
-            Console.WriteLine("hello1");
-        }
+       
     }
 }
