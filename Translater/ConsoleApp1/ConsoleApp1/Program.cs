@@ -41,7 +41,7 @@ namespace ConsoleApp1
             }
             catch (WebException e)
             {
-              // test Dev branch
+              // test Dev branch dev 2.0
                // ProcessWebException(e, "Failed to translate");
             }
             finally
